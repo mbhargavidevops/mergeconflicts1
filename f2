@@ -1,2 +1,2 @@
-if user.name = password
+if (user.name = password)
 print(test case is failed")
